@@ -47,6 +47,11 @@ body {
 
 }
 
+.hover-object10:hover {
+  cursor: scratch-logo.png;
+
+}
+
 span {
   font-family: 'Consolas', 'Courier New', monospace;
 }
