@@ -1,0 +1,52 @@
+h1 {
+display: flex;
+flex-direction: column;
+background-color: rgb(139, 231, 151);
+}
+
+body {
+  cursor: default;
+  font-family: Georgia;
+}
+
+.hover-object1:hover {
+  cursor: pointer;
+}
+
+.hover-object2:hover {
+  cursor: crosshair;
+}
+
+.hover-object3:hover {
+  cursor: move;
+}
+
+.hover-object4:hover {
+  cursor: text;
+}
+
+.hover-object5:hover {
+  cursor: wait;
+}
+
+.hover-object6:hover {
+  cursor: not-allowed;
+}
+.hover-object7:hover {
+  cursor: auto;
+
+}
+
+.hover-object8:hover {
+  cursor: help;
+
+}
+
+.hover-object9:hover {
+  cursor: grab;
+
+}
+
+span {
+  font-family: 'Consolas', 'Courier New', monospace;
+}
